@@ -10,7 +10,9 @@ Connexion à Internet (pour se connecter à un broker MQTT public et à MongoDB)
 
 # Exécution des Clients
 Lancez client2.js pour établir la connexion à MongoDB et s'abonner au broker MQTT. Cela se fait en exécutant:
+
 ```node client2.js```
 
 Lancez client1.js pour envoyer une demande à client2. Cela se fait en exécutant:
+
 ```node client1.js```
